@@ -8,6 +8,10 @@
    Function to reduce taxes to 3/3
    Function to remove taxes
    Removable anti-whale restrictions of max transaction & max wallet
+
+   https://whytoken.xyz
+   $WHY token on base & solana chains
+   "Why have instrinsic value?" -Ben.eth
  */
 
 // SPDX-License-Identifier: MIT
@@ -1145,7 +1149,7 @@ contract Why is ERC20, Ownable {
         address(0x000000000000000000000000000000000000dEaD);
 
     string public exchangeLink = "https://app.uniswap.or/swap";
-    string public websiteLink = "https://DrewRoberts.com";
+    string public websiteLink = "https://whytoken.xyz";
 
     address public communityWallet;
     address public marketingWallet;
